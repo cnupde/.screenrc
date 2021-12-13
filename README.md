@@ -1,2 +1,2 @@
-# screen.rc
-a backup for .screen.rc
+# .screenrc
+a backup for .screenrc
